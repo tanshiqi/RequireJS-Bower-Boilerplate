@@ -1,0 +1,8 @@
+{
+  "name": "RequireJS Starter",
+  "dependencies": {
+    "requirejs": "latest",
+    "jquery": "latest",
+    "bootstrap": "latest"
+  }
+}
